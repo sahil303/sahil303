@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahil303
-- 👀 I’m interested in Programming, Data science and making real time projects
+- 👀 I’m interested in Competitive Programming, FreeLancing, Data science and making real time projects
 - 🌱 I’m currently learning new coding language and problem solving skills
 - 💞️ I’m looking to collaborate with FreeLancer
 - 📫 How to reach me by LinkedIn
